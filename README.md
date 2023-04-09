@@ -33,6 +33,10 @@ python run.py
 ## Dataset
 The breast cancer images and labels dataset is not included in this repository due to its large size. You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) or from other sources.
 
+## CNN Architecture
+
+## Results
+
 ## Credits
 The BreastCancerCNN class was developed by Armin Masoumian and is licensed under the [MIT License](https://github.com/ArminMasoumian/Breast-Cancer-Diagnosis-CNN/blob/main/LICENSE).
 
