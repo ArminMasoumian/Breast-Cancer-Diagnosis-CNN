@@ -16,22 +16,22 @@ You can install these packages using the following command:
 pip install -r requirements.txt
 ```
 ## Usage
-To use the BreastCancerCNN class, follow these steps:
+To use the 'BreastCancerCNN' class, follow these steps:
 
 Clone the repository to your local machine.
 
-Download the breast cancer images and labels dataset and save them as breast_cancer_images.npy and breast_cancer_labels.npy, respectively, in the repository's root directory.
+Download the breast cancer images and labels dataset and save them as 'breast_cancer_images.npy' and 'breast_cancer_labels.npy', respectively, in the repository's root directory.
 
-Run the run.py script to train and evaluate the model.
+Run the 'run.py' script to train and evaluate the model.
 
-The run.py script loads the dataset, trains the model, and evaluates its performance on a separate test set. To run the script, use the following command:
+The 'run.py' script loads the dataset, trains the model, and evaluates its performance on a separate test set. To run the script, use the following command:
 
 ```
 python run.py
 ```
 
 ## Dataset
-The breast cancer images and labels dataset is not included in this repository due to its large size. You can download the dataset from Kaggle or from other sources.
+The breast cancer images and labels dataset is not included in this repository due to its large size. You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) or from other sources.
 
 ## Credits
 The BreastCancerCNN class was developed by Armin Masoumian and is licensed under the [MIT License](https://github.com/ArminMasoumian/Breast-Cancer-Diagnosis-CNN/blob/main/LICENSE).
