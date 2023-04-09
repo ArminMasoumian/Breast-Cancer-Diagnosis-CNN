@@ -1,6 +1,23 @@
 # Breast-Cancer-Diagnosis-CNN
 Breast Cancer Diagnosis Improvement Based on Image Processing Using Machine Learning Methods (CNN)
 
+> **PSOWNNs-CNN: A Computational Radiology for Breast Cancer Diagnosis Improvement Based on Image Processing Using Machine Learning Methods**
+>
+> https://www.hindawi.com/journals/cin/2022/5667264/
+
+If you find our work useful in your research please consider citing our paper:
+
+```
+@article{nomani2022psownns,
+  title={PSOWNNs-CNN: a computational radiology for breast cancer diagnosis improvement based on image processing using machine learning methods},
+  author={Nomani, Ashkan and Ansari, Yasaman and Nasirpour, Mohammad Hossein and Masoumian, Armin and Pour, Ehsan Sadeghi and Valizadeh, Amin},
+  journal={Computational Intelligence and Neuroscience},
+  volume={2022},
+  year={2022},
+  publisher={Hindawi}
+}
+```
+
 ## Description
 This repository contains an implementation of a Convolutional Neural Network (CNN) for breast cancer detection. The BreastCancerCNN class is an object-oriented implementation of a CNN using TensorFlow 2. The model is trained on a dataset of breast cancer images and labels, and the trained model is evaluated on a separate test set. The goal of this project is to develop an accurate model for early breast cancer detection.
 
