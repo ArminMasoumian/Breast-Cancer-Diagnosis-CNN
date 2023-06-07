@@ -33,7 +33,7 @@ You can install these packages using the following command:
 pip install -r requirements.txt
 ```
 ## Usage
-To use the 'BreastCancerCNN' class, follow these steps:
+To use the <strong>BreastCancerCNN</strong> class, follow these steps:
 
 Clone the repository to your local machine.
 
